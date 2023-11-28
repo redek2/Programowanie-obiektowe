@@ -1,0 +1,14 @@
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\Zadanie 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\Zadanie 5.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\Zadanie 5.AssemblyInfo.cs
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\Zadanie 5.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\bin\Debug\net6.0\Zadanie 5.exe
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\bin\Debug\net6.0\Zadanie 5.deps.json
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\bin\Debug\net6.0\Zadanie 5.runtimeconfig.json
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\bin\Debug\net6.0\Zadanie 5.dll
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\bin\Debug\net6.0\Zadanie 5.pdb
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\Zadanie 5.dll
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\refint\Zadanie 5.dll
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\Zadanie 5.pdb
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\Zadanie 5.genruntimeconfig.cache
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Zadanie 5\obj\Debug\net6.0\ref\Zadanie 5.dll

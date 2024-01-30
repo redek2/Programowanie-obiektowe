@@ -1,0 +1,14 @@
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\bin\Debug\net6.0\Wieża.exe
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\bin\Debug\net6.0\Wieża.deps.json
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\bin\Debug\net6.0\Wieża.runtimeconfig.json
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\bin\Debug\net6.0\Wieża.dll
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\bin\Debug\net6.0\Wieża.pdb
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\Wieża.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\Wieża.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\Wieża.AssemblyInfo.cs
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\Wieża.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\Wieża.dll
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\refint\Wieża.dll
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\Wieża.pdb
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\Wieża.genruntimeconfig.cache
+C:\Users\redek\source\repos\Zadania programowanie obiektowe\Wieża\obj\Debug\net6.0\ref\Wieża.dll
